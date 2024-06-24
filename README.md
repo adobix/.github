@@ -1,0 +1,2 @@
+# .github
+Adobix Tech
